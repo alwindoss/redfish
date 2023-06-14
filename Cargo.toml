@@ -1,0 +1,15 @@
+[package]
+name = "redfish"
+version = "0.1.0"
+edition = "2021"
+license = "BSD-3-Clause"
+keywords = ["sdk", "hplio", "ilo", "redfish", "api"]
+categories = ["sdk", "client"]
+repository = "https://github.com/alwindoss/redfish"
+readme = "README.md"
+description = "A rust cli and sdk for Redfish API"
+authors = ["Alwin Doss"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
